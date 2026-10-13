@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/trgchinhh/blockchain-cpp">
+  <a href="https://github.com/Interstella-OS/blockchain.git">
     <img src="https://img.shields.io/badge/Language-C%2B%2B-blue.svg" alt="Language"/>
   </a>
   <a href="LICENSE">
@@ -241,8 +241,8 @@ pacman -S mingw-w64-x86_64-cryptopp
 
 ### Biên dịch và khởi chạy
 ```bash
-git clone https://github.com/Interstella-OS/Blockchain-Miner.git
-cd Blockchain-Miner
+git clone https://github.com/Interstella-OS/blockchain.git
+cd blockchain/
 g++ ./build.cpp -o ./build.exe 
 ./build.exe
 ```
